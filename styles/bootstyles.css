@@ -1,0 +1,36 @@
+
+.header{
+    height: 50px;
+    line-height: 50px;
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.tableau{
+    height: 50px;
+    line-height: 50px;
+    background-color: bisque;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  color: brown;
+  text-align: center;
+}
+
+style{
+    font-family: 'Courier New', Courier, monospace
+}
+
+.color{
+    color: black;
+}
+
+.color{
+    color: brown;
+}
